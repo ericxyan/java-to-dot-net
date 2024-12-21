@@ -1,0 +1,6 @@
+@SuperService_HostAddress = http://localhost:5237
+
+GET {{SuperService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
